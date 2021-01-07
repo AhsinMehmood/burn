@@ -1,0 +1,101 @@
+name: Burn
+description: A Workout App.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.0
+  # cached_video_player:
+  intl:
+  google_fonts:
+  sticky_headers: "^0.1.8"
+  flutter_neumorphic:
+  flutter_gifimage: ^1.0.0
+  fl_chart:
+  simple_animations:  
+  vibration: ^1.7.3
+  # assets_audio_player: ^1.4.7+4
+  # audioplayer: 0.8.1
+  audioplayers: ^0.17.0
+
+  # numeric_keyboard:
+  get:    
+  # country_pickers: ^1.3.0
+  # avatar_glow: 
+  # material_design_icons_flutter: ^4.0.5345
+  provider: ^3.2.0
+  # image_picker:
+  font_awesome_flutter:
+  # firebase_ml_vision: ^0.9.6+2
+  image_cropper:
+  cached_network_image: 2.0.0-rc
+  flushbar: ^1.10.4
+  # stripe_payment: ^1.0.7
+  cloud_functions: any 
+  firebase_database: any
+  timeago: ^2.0.26
+  cloud_firestore: any
+  firebase_storage: any
+  # google_sign_in: ^4.5.1
+  firebase_messaging: any
+  firebase_auth: any
+  # permission_handler: ^5.0.1+1
+  # emoji_picker:
+  # latlong: ^0.6.1
+  # geolocator: ^6.0.0
+  percent_indicator: ^2.1.8
+  # geocoder: ^0.2.1
+  # buttons_tabbar:
+  share:  
+  # flutter_tindercard: ^0.2.0
+  flutter_page_indicator:
+  # geocoder:
+  # palette_generator: ^0.2.3
+  # date_util: ^0.1.4  
+  # cross_connectivity: ^1.0.1  
+  # modal_progress_hud:
+  # flutter_password_strength: ^0.1.4
+  readmore:
+  # flutter_reactive_button: ^1.1.0
+  # audioplayers:  
+  # apple_sign_in: ^0.1.0 
+  flutter_launcher_icons: "^0.8.0" 
+  
+  # age:
+  # flutter_datetime_picker:
+  # fancy_drawer: ^1.0.0   
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter_icons:
+  # image_path: "assets/nova_logo_3.png"
+  android: "launcher_icon"
+  ios: true
+
+
+flutter:
+
+ 
+  uses-material-design: true
+
+ 
+  assets:
+    - assets/audios/
+    - assets/
+  
+    # - assets/audio_tips
+    # - images/a_dot_ham.jpeg
+
+ 

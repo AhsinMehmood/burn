@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>509259051893-s2729mtvbo4gttnt9u9ld469f2qt8eat.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.509259051893-s2729mtvbo4gttnt9u9ld469f2qt8eat</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAupmQaLbiNBKnciwD6XTXxqVd_PmmD9eg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>509259051893</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.burn</string>
+	<key>PROJECT_ID</key>
+	<string>burn-2fa49</string>
+	<key>STORAGE_BUCKET</key>
+	<string>burn-2fa49.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:509259051893:ios:b40f7f21f8b45e5c88d93c</string>
+	<key>DATABASE_URL</key>
+	<string>https://burn-2fa49.firebaseio.com</string>
+</dict>
+</plist>
